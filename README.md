@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Titan
 - 👀 I’m interested in Backend Development, Data, and Machine Learning
-- 🌱 I’m currently learning Odoo and Python
+- 🌱 I’m currently learning ....

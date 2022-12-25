@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Titan
 - 👀 I’m interested in Backend Development, Data, and Machine Learning
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning React ⚛️
